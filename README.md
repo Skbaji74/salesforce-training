@@ -20,17 +20,11 @@ The repository is organized chronologically to easily track progress:
 * [Week 1, Day 5](./week1/day5/)
 EOF
 
-# 4. Create Week 1 structure and daily files
-for i in {1..5}
-do
-  # Create the day folder
-  mkdir -p "week1/day$i"
-  
-  # Create the blank code and output files
+
   touch "week1/day$i/daily_code.apex"
   touch "week1/day$i/output.txt"
   
-  # Create and populate the daily README.md
+ 
   cat << EOF > "week1/day$i/README.md"
 # Week 1 - Day $i
 
