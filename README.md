@@ -1,16 +1,4 @@
 # salesforce-training
-#!/bin/bash
-
-# 1. Create the main repository folder and navigate into it
-mkdir -p salesforce-training
-cd salesforce-training
-
-# 2. Initialize a Git repository
-git init
-
-# 3. Create and populate the Top-Level README.md
-cat << 'EOF' > README.md
-# Salesforce Training Repository
 
 ## Overview
 This repository contains all my daily coursework, code snippets, and output files from the Salesforce Training program. 
@@ -47,7 +35,7 @@ do
 # Week 1 - Day $i
 
 ## Topics Covered Today
-* (Add topic here)
+* (topic here)
 
 ## Tasks Completed
 1. 
@@ -57,11 +45,4 @@ do
 * \`daily_code.apex\`: Contains the scripts written during today's session.
 * \`output.txt\`: Contains the console execution results.
 
-## Key Takeaways / Notes
-* Note 1: (Add an important concept you learned today)
-EOF
 
-done
-
-echo "✅ 'salesforce-training' repository structure created successfully!"
-echo "➡️  Next step: run 'cd salesforce-training' to enter your new repository."
