@@ -27,8 +27,5 @@ The repository is organized chronologically to easily track progress:
 1. 
 2. 
 
-## Code Files
-* \`daily_code.apex\`: Contains the scripts written during today's session.
-* \`output.txt\`: Contains the console execution results.
 
 
