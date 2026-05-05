@@ -18,14 +18,6 @@ The repository is organized chronologically to easily track progress:
 * [Week 1, Day 3](./week1/day3/)
 * [Week 1, Day 4](./week1/day4/)
 * [Week 1, Day 5](./week1/day5/)
-EOF
-
-
-  touch "week1/day$i/daily_code.apex"
-  touch "week1/day$i/output.txt"
-  
- 
-  cat << EOF > "week1/day$i/README.md"
 # Week 1 - Day $i
 
 ## Topics Covered Today
