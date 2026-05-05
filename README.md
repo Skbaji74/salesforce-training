@@ -1,5 +1,5 @@
 
-# Salesforce Training Repository
+# Salesforce Training 
 
 ## Overview
 This repository contains daily coursework, code snippets, and output logs from the Salesforce Training program. 
@@ -29,4 +29,27 @@ This repository contains daily coursework, code snippets, and output logs from t
 
 ## Key Takeaways
 * [Insert Notes]
+
+  
+##  Skills Snapshot
+
+- SQL analytics and joins
+- PySpark transformations
+- data cleaning and validation
+- window functions and ranking
+- customer segmentation
+- notebook-driven reporting
+
+---
+
+## Where to Start
+
+1. Start with `Week1/README.md` for phase-wise learning flow.
+2. Open `Week1/README.md` for day-wise implementation evidence.
+
+---
+
+## Author
+
+**SHEIK BAJI**
 
